@@ -12,15 +12,15 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
-  [''], 
-  [''] 
+  ["919048887722", "Prince", false],
+  ['918629969999'], 
+  ['918111806861'] 
 ]
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+//💌global.pairingNumber = "917907960800" //put your bot number here💌
+global.mods = ['919544980529'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -114,21 +114,21 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/919048887722' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
+global.botname = '⎈✮⃟🍷𝛪𝛮𝐹𝛯𝑅𝛮𝛩 𝛭𝛲⁴᭄⚚≛⃝🎶'
+global.princebot = '⎈✮⃟🍷𝛪𝛮𝐹𝛯𝑅𝛮𝛩 𝛭𝛲⁴᭄⚚≛⃝🎶'
+global.packname = '⎈✮⃟🍷𝛪𝛮𝐹𝛯𝑅𝛮𝛩 𝛭𝛲⁴᭄⚚≛⃝🎶' 
+global.author = '𝐿𝛥𝑆𝛪𝛮 𝑆𝛯𝑅' 
+global.princeig = 'https://www.instagram.com/lasin_ser' 
+global.princegp = 'https://chat.whatsapp.com/GQpqTTT8x4P5IS9W9LiD3m'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
-global.princeyt = 'https://youtube.com/'
+global.princeyt = 'https://youtube.com/@lasinser786?si=plK4UP5JRkC43Vlc'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
